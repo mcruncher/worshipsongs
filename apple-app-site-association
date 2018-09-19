@@ -1,11 +1,13 @@
 {
-"applinks": {
-    "apps": [ ],
+  "applinks": {
+    "apps": [],
     "details": [
-        {
-            "appID": "7W474V4EGY.com.mcruncher.worshipsongs",
-            "paths": [ "*" ]
-        }
+      {
+        "appID": "7W474V4EGY.com.mcruncher.worshipsongs",
+        "paths": [
+          "/iOS-Universal-Links/*"
+        ]
+      }
     ]
-}
+  }
 }
