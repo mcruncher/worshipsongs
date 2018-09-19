@@ -5,7 +5,7 @@
       {
         "appID": "7W474V4EGY.com.mcruncher.worshipsongs",
         "paths": [
-          "/iOS-Universal-Links/*"
+          "*"
         ]
       }
     ]
